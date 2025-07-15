@@ -1,0 +1,44 @@
+🧩 10 Problemas Simples em C para Praticar
+1. Verificar se um número é par ou ímpar
+
+    Escreva um programa que receba um número inteiro e diga se ele é par ou ímpar.
+
+2. Calcular a média de 3 notas
+
+    Peça ao usuário 3 notas (ponto flutuante) e mostre a média final e se o aluno foi aprovado (média ≥ 7).
+
+3. Tabuada de um número
+
+    Solicite um número e imprima a tabuada dele (de 1 a 10).
+
+4. Soma de N números
+
+    Peça ao usuário quantos números ele deseja somar, leia os valores e mostre o total.
+
+5. Verificar se um número é primo
+
+    Escreva um programa que verifica se o número digitado é primo.
+
+6. Inverter os elementos de um vetor
+
+    Peça 5 números e armazene em um vetor. Depois, mostre o vetor invertido.
+
+7. Contar vogais em uma string
+
+    Solicite uma palavra ou frase e conte quantas vogais (a, e, i, o, u) ela possui.
+
+8. Função que calcula o fatorial
+
+    Crie uma função que receba um número inteiro e retorne o seu fatorial. Depois, use essa função no main.
+
+9. Cálculo da média com ponteiro
+
+    Crie um programa que calcula a média de dois valores usando ponteiros.
+
+10. Menu simples com switch
+
+    Crie um menu com as opções:
+    1 - Somar dois números
+    2 - Subtrair dois números
+    3 - Sair
+    O usuário escolhe a opção e o programa executa a ação correspondente.
